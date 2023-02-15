@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Sveikas pasaulieti");
         int sk = 30;
         System.out.println("test!");
+        System.out.println("dar vienas");
     }
 }
